@@ -52,7 +52,7 @@
                   </div><!--./row-->
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Message</label>
+                    <label class="col-lg-3">Message<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                          <textarea class="form-control" id="comment"  required=""></textarea>
                       </div>             
