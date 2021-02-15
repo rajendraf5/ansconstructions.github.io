@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -20,7 +19,7 @@
     <body>  
     <header id="sticky-header">
       <div class="nav-sticky">
-        <nav class="navbar navbar-expand-lg navbar-dark menubg btco-hover-menu"> 
+        <nav class="navbar navbar-expand-lg navbar-dark"> 
             <div class="container sh-header">
               <a class="navbar-brand logo" href="index.php"><img src="images/logo.png" alt="Logo" ></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,4 +45,5 @@
              </div><!--./container-->
           </nav>
       </div>  
-    </header> 
+   </header>   
+

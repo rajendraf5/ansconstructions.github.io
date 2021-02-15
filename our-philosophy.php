@@ -22,6 +22,5 @@
       </div>  
     </div>
   </div>
-</section>      
-
+</section>   
 <?php include("footer.php");?>

@@ -57,5 +57,5 @@
       </div>
     </div>
   </section>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3506.1275252803466!2d77.29764336504823!3d28.505810696555855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390ce6c537c1090d%3A0xba44c51129e9b2fc!2sANS%20CONSTRUCTIONS%20PVT%20LTD%2C%20Block%20B-1%2C%20Block%20extension%2C%20Mohan%20Cooperative%20Industrial%20Estate%2C%20Badarpur%2C%20New%20Delhi%2C%20Delhi!3m2!1d28.5052384!2d77.2995361!5e0!3m2!1sen!2sin!4v1612771301283!5m2!1sen!2sin" width="100%" height="600" frameborder="0" style="border:0;display: block" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
+  <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3506.1275252803466!2d77.29764336504823!3d28.505810696555855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390ce6c537c1090d%3A0xba44c51129e9b2fc!2sANS%20CONSTRUCTIONS%20PVT%20LTD%2C%20Block%20B-1%2C%20Block%20extension%2C%20Mohan%20Cooperative%20Industrial%20Estate%2C%20Badarpur%2C%20New%20Delhi%2C%20Delhi!3m2!1d28.5052384!2d77.2995361!5e0!3m2!1sen!2sin!4v1612771301283!5m2!1sen!2sin" width="100%" height="600" frameborder="0" style="border:0;display: block" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <?php include("footer.php");?>

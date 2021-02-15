@@ -1,4 +1,3 @@
-
 <?php include("header.php");?>
 <section class="page-title" style="background-image:url(images/img-1.jpg);">
   <div class="container">
@@ -221,5 +220,4 @@
       </div><!--./row-->  
     </div><!--./container-->
   </section>
-
 <?php include("footer.php");?>

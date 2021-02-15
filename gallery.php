@@ -1,4 +1,3 @@
-
 <?php include("header.php");?>
 <section class="page-title" style="background-image:url(images/img-1.jpg);">
   <div class="container">
@@ -40,7 +39,7 @@
                         </ul>
                     </div> -->
                     <!-- End work Filter -->
-    <div class="row container-masonry">
+    <div class="row container-masonry2">
       <div class="col-lg-3 col-md-12 col-sm-12">
         <div class="nf-item">
           <div class="item-box">

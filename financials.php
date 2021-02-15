@@ -65,5 +65,4 @@
     </div><!--./row-->
   </div><!--./container-->
 </section>
-
 <?php include("footer.php");?>

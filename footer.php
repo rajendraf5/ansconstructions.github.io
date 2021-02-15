@@ -15,7 +15,6 @@
           </ul>
         </div><!--./footer_heading-->  
       </div><!--./col-lg-3-->
-
       <div class="col-lg-6 col-md-8 col-12">
         <div class="footer_heading">
           <div class="row">
@@ -42,7 +41,6 @@
           </div><!--./row-->  
         </div><!--./footer_heading-->  
       </div><!--./col-lg-6-->
-
       <div class="col-lg-3 col-md-12 col-12">
         <div class="footer_heading">
           <h4 class="fotitle">Connect With Us</h4>
@@ -57,7 +55,6 @@ Mathura Road, New Delhi – 110 044</li>
           </ul>
         </div><!--./footer_heading-->  
       </div>
-
     </div><!--./row--> 
   </div><!--./container--> 
 
@@ -86,15 +83,12 @@ Mathura Road, New Delhi – 110 044</li>
   <script src="js/easing.min.js"></script>
   <script src="js/jquery.url.js"></script>
   <script src="js/owl.carousel.min.js"></script>
-  
-  <script src="js/waypoints.min.js"></script>
-  <script src="js/counterup.min.js"></script>
-  <script src="js/main.js"></script>
   <script src="js/imagesloaded.pkgd.min.js"></script>
   <script src="js/isotope.pkgd.min.js"></script>
   <script src="js/jquery.fancybox.pack.js"></script>
-   <script src="js/masonry.js"></script>
-  <script src="js/custom.js" type="text/javascript"></script>
+  <script src="js/custom.js"></script>
+  <script src="js/waypoints.min.js"></script>
+  <script src="js/counterup.min.js"></script>
+  <script src="js/main.js"></script>
   </body>
 </html>
-  

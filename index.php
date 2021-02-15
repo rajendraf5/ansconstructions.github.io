@@ -25,8 +25,6 @@
             <div class="slidearrow"><a href="#About" class="page-scroll"><i class="fa fa-angle-down"></i></a></div>
           </div><!--./carousel-inner-->
 
-          
-
         <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon fa fa-angle-left" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
@@ -191,7 +189,7 @@
             <div class="project-img">
               <img src="images/works.jpg">
             </div>
-            <div class="project-content pink-bg">
+            <div class="project-content orange-bg">
               <h4><a href="mainmenu.php#Completed">Completed Works</a></h4>
               <a href="mainmenu.php#Completed" class="outlinebtn mt-2">Read More</a>
             </div> 
@@ -203,7 +201,7 @@
             <div class="project-img">
               <img src="images/equipments.jpg">
             </div>
-            <div class="project-content orange-bg">
+            <div class="project-content pink-bg">
               <h4><a href="mainmenu.php#Equipments">Equipments and Vehicles</a></h4>
               <a href="mainmenu.php#Equipments" class="outlinebtn mt-2">Read More</a>
             </div> 
@@ -216,7 +214,7 @@
             <div class="project-img">
               <img src="images/associations.jpg">
             </div>
-            <div class="project-content pink-bg">
+            <div class="project-content orange-bg">
               <h4><a href="mainmenu.php#Associations">Associations</a></h4>
               <a href="mainmenu.php#Associations" class="outlinebtn mt-2">Read More</a>
             </div> 
@@ -228,7 +226,7 @@
             <div class="project-img">
               <img src="images/commendations.jpg">
             </div>
-            <div class="project-content orange-bg">
+            <div class="project-content pink-bg">
               <h4><a href="mainmenu.php#Commendations">Acco. & Commendations</a></h4>
               <a href="mainmenu.php#Commendations" class="outlinebtn mt-2">Read More</a>
             </div> 
@@ -240,7 +238,7 @@
             <div class="project-img">
               <img src="images/checkmail.jpg">
             </div>
-            <div class="project-content pink-bg">
+            <div class="project-content orange-bg">
               <h4><a href="https://www.rediffmailpro.com/cgi-bin/login.cgi" target="_blank">Check Mail</a></h4>
               <a href="#" class="outlinebtn mt-2">Read More</a>
             </div> 
@@ -259,7 +257,7 @@
           <h2 class="heading-2">Our Philosophy</h2>
           <div class="divider-lg"></div>
           <p class="block-lg">The company’s vision is to constantly improve the quality of urban life by constant innovation and introduction of the latest techniques and in the process add value to its employees, shareholders and business constituents. It would also strive to be the best and socially committed corporate entity.</p>
-          <a href="our-philosophy.php" class="outlinebtn mt-2" style="background:#f39a56; color: #fff;">Read More</a>
+          <a href="our-philosophy.php" class="outlinebtn mt-2">Read More</a>
         </div><!--./col-lg-12-->
       </div><!--./row-->
     </div><!--./container-->
@@ -322,35 +320,35 @@
             <div class="contact-form mt-4">
               <form method="post"> 
                   <div class="row form-group">
-                    <label class="col-lg-3">Name</label>
+                    <label class="col-lg-3">Name<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row-->
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Email</label>
+                    <label class="col-lg-3">Email<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row-->
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Mobile</label>
+                    <label class="col-lg-3">Mobile<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row--> 
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Subject</label>
+                    <label class="col-lg-3">Subject<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row-->
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Message</label>
+                    <label class="col-lg-3">Message<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                          <textarea class="form-control" id="comment"  required=""></textarea>
                       </div>             

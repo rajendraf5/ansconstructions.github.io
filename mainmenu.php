@@ -39,19 +39,10 @@
           <div class="tab-content maintapbg">
             <div role="tabpanel" class="tab-pane fade show active" id="Incorporation">
               <h3>Incorporation</h3>
-              <div class="row container-masonry">
-                <div class="col-lg-3 col-md-12 col-sm-12">
-                  <div class="nf-item">
-                    <div class="item-box">
-                      <a href="images/incorporation/incorporation0.png" class="fancylight"><img alt="" src="images/incorporation/incorporation0.png" class="item-container"> </a>
-                      <div class="link-zoom">
-                        <a href="images/incorporation/incorporation0.png" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
-                      </div>
-                    </div>
-                  </div>
-                </div><!--./col-lg-3-->
+              <div class="row container-masonry4">
+               
 
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/incorporation/incorporation1.jpg" class="fancylight"><img alt="" src="images/incorporation/incorporation1.jpg" class="item-container"> </a>
@@ -62,7 +53,7 @@
                   </div>
                 </div><!--./col-lg-4-->
 
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/incorporation/incorporation2.jpg" class="fancylight"><img alt="" src="images/incorporation/incorporation2.jpg" class="item-container"> </a>
@@ -73,7 +64,7 @@
                   </div>
                 </div><!--./col-lg-4-->
 
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/incorporation/form1.jpg" class="fancylight"><img alt="" src="images/incorporation/form1.jpg" class="item-container"> </a>
@@ -84,7 +75,7 @@
                   </div>
                 </div><!--./col-lg-4-->
 
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/incorporation/certi-business.jpg" class="fancylight"><img alt="" src="images/incorporation/certi-business.jpg" class="item-container"> </a>
@@ -94,13 +85,24 @@
                     </div>
                   </div>
                 </div><!--./col-lg-4-->
+
+                 <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="nf-item">
+                    <div class="item-box">
+                      <a href="images/incorporation/incorporation0.png" class="fancylight"><img alt="" src="images/incorporation/incorporation0.png" class="item-container"> </a>
+                      <div class="link-zoom">
+                        <a href="images/incorporation/incorporation0.png" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+                      </div>
+                    </div>
+                  </div>
+                </div><!--./col-lg-3-->
               </div><!--./row-->
             </div><!--#/Incorporation-->
 
             <div role="tabpanel" class="tab-pane fade" id="Certification">
               <h3>Certification</h3>
               <div class="row container-masonry">
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/certificate/certificate1-1.jpg" class="fancylight"><img alt="" src="images/certificate/certificate1-1.jpg" class="item-container"> </a>
@@ -110,7 +112,7 @@
                     </div>
                   </div>
                 </div><!--./col-lg-3-->
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/certificate/certificate2.jpg" class="fancylight"><img alt="" src="images/certificate/certificate2.jpg" class="item-container"> </a>
@@ -120,7 +122,7 @@
                     </div>
                   </div>
                 </div><!--./col-lg-3-->
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/certificate/certificate1.jpg" class="fancylight"><img alt="" src="images/certificate/certificate1.jpg" class="item-container"> </a>
@@ -695,8 +697,8 @@
 
             <div role="tabpanel" class="tab-pane fade" id="Commendations">
               <h3>Acco. & Commendations</h3>
-               <div class="row container-masonry">
-                <div class="col-lg-3 col-md-12 col-sm-12">
+               <div class="row container-masonry3">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/asso-commendations/acco_commendation1.jpg" class="fancylight"><img alt="" src="images/asso-commendations/acco_commendation1.jpg" class="item-container"> </a>
@@ -707,7 +709,7 @@
                   </div>
                 </div><!--./col-lg-3-->
 
-                 <div class="col-lg-3 col-md-12 col-sm-12">
+                 <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/asso-commendations/acco_commendation2.jpg" class="fancylight"><img alt="" src="images/asso-commendations/acco_commendation2.jpg" class="item-container"> </a>
@@ -718,18 +720,8 @@
                   </div>
                 </div><!--./col-lg-3-->
 
-                 <div class="col-lg-3 col-md-12 col-sm-12">
-                  <div class="nf-item">
-                    <div class="item-box">
-                      <a href="images/asso-commendations/acco_commendation3.jpg" class="fancylight"><img alt="" src="images/asso-commendations/acco_commendation3.jpg" class="item-container"> </a>
-                      <div class="link-zoom">
-                        <a href="images/asso-commendations/acco_commendation3.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
-                      </div>
-                    </div>
-                  </div>
-                </div><!--./col-lg-3-->
-
-                 <div class="col-lg-3 col-md-12 col-sm-12">
+                
+                 <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/asso-commendations/accolades.jpg" class="fancylight"><img alt="" src="images/asso-commendations/accolades.jpg" class="item-container"> </a>
@@ -740,12 +732,23 @@
                   </div>
                 </div><!--./col-lg-3-->
 
-                <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   <div class="nf-item">
                     <div class="item-box">
                       <a href="images/asso-commendations/accolades2.jpg" class="fancylight"><img alt="" src="images/asso-commendations/accolades2.jpg" class="item-container"> </a>
                       <div class="link-zoom">
                         <a href="images/asso-commendations/accolades2.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+                      </div>
+                    </div>
+                  </div>
+                </div><!--./col-lg-3-->
+
+                 <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="nf-item">
+                    <div class="item-box">
+                      <a href="images/asso-commendations/acco_commendation3.jpg" class="fancylight"><img alt="" src="images/asso-commendations/acco_commendation3.jpg" class="item-container"> </a>
+                      <div class="link-zoom">
+                        <a href="images/asso-commendations/acco_commendation3.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
                       </div>
                     </div>
                   </div>
