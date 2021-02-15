@@ -24,28 +24,28 @@
             <div class="contact-form mt-4">
               <form method="post"> 
                   <div class="row form-group">
-                    <label class="col-lg-3">Name</label>
+                    <label class="col-lg-3">Name<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row-->
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Email</label>
+                    <label class="col-lg-3">Email<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row-->
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Mobile</label>
+                    <label class="col-lg-3">Mobile<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
                   </div><!--./row--> 
 
                   <div class="row form-group">
-                    <label class="col-lg-3">Subject</label>
+                    <label class="col-lg-3">Subject<span>*</span></label>
                       <div class="col-lg-9 col-md-12 col-sm-12"> 
                         <input type="text" class="form-control" name="username" required="">
                       </div>             
