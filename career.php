@@ -32,36 +32,36 @@
                 <div class="row">
                   <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="form-group">
-                      <label>Name</label>
+                      <label>Name<span>*</span></label>
                       <input type="text" class="form-control" name="username" required="">            
                     </div><!--./form-group-->
                   </div><!--./col-lg-6--> 
                   <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="form-group">
-                      <label>Post Applied for</label>
+                      <label>Post Applied for<span>*</span></label>
                       <input type="text" class="form-control" name="username" required="">            
                     </div><!--./form-group-->
                   </div><!--./col-lg-6-->  
                   <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="form-group">
-                      <label>Mobile</label>
+                      <label>Mobile<span>*</span></label>
                       <input type="text" class="form-control" name="username" required="">            
                     </div><!--./form-group-->
                   </div><!--./col-lg-6-->
                   <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="form-group">
-                      <label>Email</label>
+                      <label>Email<span>*</span></label>
                       <input type="text" class="form-control" name="username" required="">            
                     </div><!--./form-group-->
                   </div><!--./col-lg-6-->
                    <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="form-group">
-                      <label>Attach Resume</label>
+                      <label>Attach Resume<span>*</span></label>
                       <input type="file" class="form-control" name="username" required="">            
                     </div><!--./form-group-->
                   </div><!--./col-lg-6-->
 
-                  <div class="col-lg-6 col-md-12 col-sm-12"> 
+                  <div class="col-lg-12 col-md-12 col-sm-12 mt-3"> 
                     <div class="form-group">
                       <label></label>
                       <button type="submit" class="outlinebtn" name="">Submit</button>
